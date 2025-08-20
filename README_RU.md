@@ -36,3 +36,19 @@ Telescream - это защищенный пользовательский юзе
 
 ## Настройка и использование
 Предназначен для технических пользователей, которые ценят конфиденциальность. Требуется Python, криптографические библиотеки RSA/AES и учетная запись в Telegram.
+
+```bash
+# Clone the repository
+git clone https://github.com/Ladvix/Telescream.git
+cd Telescream
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the userbot
+python main.py
+```
+
+## Links
+
+- <a href="https://t.me/telescream"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
