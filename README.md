@@ -10,7 +10,7 @@
 
   <img style="width:100%; height:auto;" alt="image" src="https://github.com/user-attachments/assets/057895c1-2833-4451-a2db-9f8ededad8aa" />
 
-  ## **English** | [Русский](README_RU.md)
+  <h2>**English** | [Русский](README_RU.md)</h2>
 
 </div>
 
