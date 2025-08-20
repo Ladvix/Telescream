@@ -2,13 +2,13 @@
 
   # Telescream
 
-  **English** | [Русский](README_RU.md)
-
   <p>
     <img src="https://img.shields.io/badge/Python-3.7+-blue.svg" alt="Python Version">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
     <img src="https://img.shields.io/badge/Telegram-Userbot-blue.svg" alt="Telegram Userbot">
   </p>
+
+  **English** | [Русский](README_RU.md)
 
   <img style="width:100%; height:auto;" alt="image" src="https://github.com/user-attachments/assets/057895c1-2833-4451-a2db-9f8ededad8aa" />
 
