@@ -1,0 +1,4 @@
+aioconsole==0.8.1
+cryptography==45.0.6
+prompt_toolkit==3.0.51
+Telethon==1.40.0
