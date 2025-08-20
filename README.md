@@ -36,3 +36,19 @@ No messages are stored on servers. Everything is encrypted client-side — not e
 
 ## Setup & Usage
 Designed for technical users who value privacy. Requires Python, RSA/AES crypto libraries, and a Telegram account.
+
+```bash
+# Clone the repository
+git clone https://github.com/Ladvix/Telescream.git
+cd Telescream
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the userbot
+python main.py
+```
+
+## Links
+
+- <a href="https://t.me/telescream"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
