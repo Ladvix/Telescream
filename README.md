@@ -37,6 +37,8 @@ No messages are stored on servers. Everything is encrypted client-side — not e
 ## Setup & Usage
 Designed for technical users who value privacy. Requires Python, RSA/AES crypto libraries, and a Telegram account.
 
+## Installation
+
 ```bash
 # Clone the repository
 git clone https://github.com/Ladvix/Telescream.git
@@ -48,6 +50,10 @@ pip install -r requirements.txt
 # Run the userbot
 python main.py
 ```
+
+## License
+
+Distributed under [the MIT License](https://github.com/Ladvix/Telescream/blob/main/LICENSE).
 
 ## Links
 
