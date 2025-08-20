@@ -51,6 +51,10 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Лицензия
+
+Распространяется [под лицензией MIT](https://github.com/Ladvix/Telescream/blob/main/LICENSE).
+
 ## Ссылки
 
 - <a href="https://t.me/telescream"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
